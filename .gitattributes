@@ -4,3 +4,4 @@ Painel.exe filter=lfs diff=lfs merge=lfs -text
 MenuFakeLag.exe filter=lfs diff=lfs merge=lfs -text
 VisionXRage.exe filter=lfs diff=lfs merge=lfs -text
 VisionX[[:space:]]Rage.exe filter=lfs diff=lfs merge=lfs -text
+VisionXRageUpdate.exe filter=lfs diff=lfs merge=lfs -text
